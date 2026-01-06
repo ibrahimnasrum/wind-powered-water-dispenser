@@ -112,11 +112,12 @@ It reads an IR sensor and switches a relay to run the pump for a configurable ti
 
 ---
 
-## Team
+## Group Members
 
-- Azri (2113537)
-- Hafiz (2123651)
-- Ibrahim (2116467)
-- Shareen (2116943)
+1. Ibrahim bin Nasrum (2116467)
+2. Muhammad Hafidzuddin Hanif (2123651)
+3. Shareen Arawie bin Hisham (2116943)
+4. Muhamad Azri bin Abdul Aziz (2113537)
+
 
 ---
